@@ -24,4 +24,5 @@ for(let i = 0; i < emojis.length; i++){
     box.className = "item";
     box.innerHTML = shurflleEmojis[i];
     document.querySelector(".game").appendChild(box);
+    
 }
